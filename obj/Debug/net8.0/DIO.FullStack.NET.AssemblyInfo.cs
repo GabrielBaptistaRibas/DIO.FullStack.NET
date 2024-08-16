@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIO.FullStack.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9dbf1cc0f18be36f6bb8b8875e151280a5be79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f64c0f26f785b68493f270a46ff5a874f306529")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIO.FullStack.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIO.FullStack.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
